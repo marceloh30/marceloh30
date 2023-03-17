@@ -1,8 +1,8 @@
 ### Hi there, I'm Marcelo 👋
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/marcelo-hernandez-lemos/"><icon src="assets/linkedin.svg" alt="LinkedIn"></a>
-</p>
+<h5 align="center">
+	<a href="https://www.linkedin.com/in/marcelo-hernandez-lemos/"><img width="22" src="assets/linkedin.svg" alt="LinkedIn"></a>
+</h5>
 
 <p align="left">
 - 🔭 I'm a skilled programmer with a passion for electronics engineering, looking for opportunities to apply my knowledge and contribute to meaningful projects.
