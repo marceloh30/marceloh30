@@ -2,7 +2,7 @@
 	Welcome!
 </h1>
 <p align="center">
-	Hi, I'm Marcelo Hernandez, an Electronics Engineer born in Uruguay. I'm currently doing a Master's Degree in Intelligent Systems at Universidad de Salamanca. Looking for new challenges! 👋
+	Hi, I'm Marcelo Hernandez, an Electronics Engineer born in Uruguay. I did a Master's Degree in Intelligent Systems at Universidad de Salamanca. Looking for new challenges! 👋
 </p>
 <p align="center">
 	<a href="https://www.linkedin.com/in/marcelo-hernandez-lemos/"><img width="22" src="assets/linkedin.svg" alt="LinkedIn">LinkedIn</a>
