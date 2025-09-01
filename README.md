@@ -1,14 +1,10 @@
-<h1 align="center">
-	Welcome!
-</h1>
-<p align="center">
-	Hi, I'm Marcelo Hernandez, an Electronics Engineer born in Uruguay. I did a Master's Degree in Intelligent Systems at Universidad de Salamanca. Looking for new challenges! 👋
-</p>
-<p align="center">
-	<a href="https://www.linkedin.com/in/marcelo-hernandez-lemos/"><img width="22" src="assets/linkedin.svg" alt="LinkedIn">LinkedIn</a>
-</p>
+### Marcelo Hernandez | AI & Electronics Engineer
 
-- 🔭 I'm a skilled programmer with a passion for electronics, looking to apply my knowledge and contribute to meaningful projects.
-- 👨‍🏫 I was a Technology Course (Taller de tecnologías 1) teacher at Universidad ORT Uruguay.
-- ⚡ My goal is to continuously improve my professional skills, and I believe that learning new tools is a key component to achieving that goal.
+Electronics Engineer with a Master's in Intelligent Systems, passionate about building smart solutions where hardware and software meet. My Master's thesis involved implementing and benchmarking four different Computer Vision models in PyTorch for violence detection in videos, demonstrating my ability to handle complex AI pipelines from research to evaluation. I am passionate about building efficient, intelligent devices by deploying models directly on hardware.
 
+- 🧠 **AI & Machine Learning:** Developing and implementing ML models (Python, PyTorch, Transformers, Scikit-learn) for Computer Vision and data analysis.
+- 🤖 **Embedded Systems & IoT:** Designing and programming embedded devices (C/C++, Arduino) using protocols like I2C, SPI, UART, and MQTT.
+
+🚀 I am actively seeking roles in **Artificial Intelligence** and **Embedded Systems** where I can apply my skills in both software and hardware. Let's connect and build intelligent solutions that solve real-world challenges and improve people's lives.
+
+📫 **Get in touch:** [marcelo.hzle@gmail.com](mailto:marcelo.hzle@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/marcelo-hernandez-lemos)
